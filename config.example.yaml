@@ -1,0 +1,15 @@
+dataset: squad
+columns:
+  - question
+  - context
+split: train
+src_lang: en
+dest_lang: kk
+batch_size: 20
+max_workers: 3
+retry_attempts: 5
+retry_delay: 2.0
+checkpoint_every: 500
+output_dir: ./output
+# push_to_hub: your-username/squad-kk
+# hf_token: or set HF_TOKEN env var
