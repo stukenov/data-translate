@@ -1,5 +1,5 @@
 deep-translator>=1.11.4
 datasets>=4.8.5
-huggingface-hub>=1.13.0
+huggingface-hub>=1.14.0
 pyyaml>=6.0.3
 tqdm>=4.67.3
