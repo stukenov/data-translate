@@ -162,6 +162,10 @@ Any language pair supported by [Google Translate](https://cloud.google.com/trans
 
 Contributions are welcome! Feel free to open issues and pull requests.
 
+## Related projects
+
+- [omniff](https://github.com/stukenov/omniff) — FFmpeg for AI. The same one-command philosophy, applied to media pipelines.
+
 ## License
 
 [MIT](LICENSE)
